@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+pdf2image
+pillow
+pytesseract
+unstructured
+requests
+groq
+transformers
+nbimporter
+jupyter

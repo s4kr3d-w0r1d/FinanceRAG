@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+env/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*~.ipynb
+
+# Data
+data/page_images/
+data/faiss.idx
+data/faiss_index.bin
+data/meta.json
+data/memory.json
+outputs/
+data/
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+
+.env
+.venv/
+__pycache__/
+*.pyc
